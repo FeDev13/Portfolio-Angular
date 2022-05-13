@@ -3,8 +3,11 @@
     color: white;
     
 }
-h1, h3 {
+h1{
     display: inline;
+    
+
+   
 }
 .educ {
     margin-top: 5rem;
@@ -14,4 +17,33 @@ h1, h3 {
 li {
     display: inline-block;
     margin: 2rem;
+    
 }
+.unmdplogo {
+    width: 10rem;
+    float: left;
+
+}
+.unmdp {
+    margin: auto;
+   
+}
+#unmdpimg {
+
+    height: 8rem;
+}
+.freecodeimg {
+    float: left;
+    width: 10rem;
+
+}
+.aplogo {
+    width: 10rem;
+    float: left;
+}
+.titulo {
+   
+    width: 100px;
+    align-items: center;
+}
+
